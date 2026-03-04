@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"; 
 import { FlatList, View, Text } from "react-native"; 
 import {styles} from '../styles/style';
-//teste de committ
+//teste de commit
 export default function HomeScreen() {
     const [armarios, setArmarios] = useState([]);
 
