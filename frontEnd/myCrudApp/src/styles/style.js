@@ -1,28 +1,60 @@
 import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
-    container: {
-        backgroundColor: '#fff',
-        padding: 16,
-        marginVertical: 4,
-        marginHorizontal: 8,
-        borderRadius: 8,
-        elevation: 2,
-        shadowColor: '#000',
-        shadowOffset: { width: 0, height: 1 },
-        shadowOpacity: 0.1,
-        shadowRadius: 2,
+    grade: {
+        justifyContent: 'flex', 
+        alignItems: 'center',
+        margin: 2,
+        marginBottom: 0,
     },
-    row: {
-        flexDirection: 'row', 
-        justifyContent: 'space-between', 
-    },
-    text: {
+    itemgradelivre: {
+        backgroundColor: 'rgba(76, 175, 80, 0.15)',
+        borderColor: 'rgba(76, 175, 80, 0.5)',
+        borderWidth: 1,
         fontSize: 14,
         color: '#333',
+        padding: 5,
+        borderRadius: 8,
+        textAlign: 'center',
+        width: 70,
+    },
+    itemgradeocupado: {
+        backgroundColor: 'rgba(244, 67, 54, 0.15)',
+        borderColor: 'rgba(244, 67, 54, 0.5)',
+        borderWidth: 1,
+        fontSize: 14,
+        color: '#333',
+        padding: 5,
+        borderRadius: 8,
+        textAlign: 'center',
+        width: 70,
+    },
+    itemgradereservado: {
+        backgroundColor: 'rgba(255, 193, 7, 0.15)',
+        borderColor: 'rgba(255, 193, 7, 0.5)',
+        borderWidth: 1,
+        fontSize: 14,
+        color: '#333',
+        padding: 5,
+        borderRadius: 8,
+        textAlign: 'center',
+        width: 70,
     },
     list : {
-        justifyContent: 'flex-end',
-        maxHeight: '50%'
-    }
+        justifyContent: 'space-between',
+        height: '100%',
+    },
+    column: {
+        height: 60,
+        justifyContent: 'center',
+        marginBottom: 0,
+        marginLeft: 8,
+        marginRight: 8,
+        paddingVertical: 10,
+    },
+    detailsContainer: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
 });
