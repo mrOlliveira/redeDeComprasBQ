@@ -20,3 +20,4 @@ Thumbs.db
 *.njsproj
 *.sln
 *.swp
+.package-lock.json
