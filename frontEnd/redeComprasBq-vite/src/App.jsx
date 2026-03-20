@@ -1,3 +1,4 @@
+//# Componente pai (onde as rotas aparecem)
 import React from "react"
 
 import AppRoutes from "./router"

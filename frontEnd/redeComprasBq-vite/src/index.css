@@ -1,3 +1,11 @@
-@tailwind base; 
-@tailwind components; 
-@tailwind utilities;
+/*# Importa o Tailwind 4 (@import "tailwindcss")*/
+@import "tailwindcss";
+
+@theme {
+  --color-neon-blue: #00d2ff;
+  --color-neon-purple: #9d50bb;
+}
+
+body {
+  @apply bg-[#0a0e17] text-white min-h-screen;
+}

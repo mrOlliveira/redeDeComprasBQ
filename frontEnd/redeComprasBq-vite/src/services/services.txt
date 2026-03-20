@@ -1,0 +1,4 @@
+# Lógica de conexão com APIs
+supabase.js     # Configuração do createClient
+lojaService.js  # Funções de Select/Insert do banco
+authService.js  # Login e Cadastro

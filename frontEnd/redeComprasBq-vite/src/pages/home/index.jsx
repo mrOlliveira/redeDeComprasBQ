@@ -1,46 +1,58 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { lojaService } from "../../services/lojaService";
 
 export default function Home() {
   const [armarios, setArmarios] = useState([]);
   const navigate = useNavigate();
 
+  // Função simples para buscar os dados
   useEffect(() => {
-    fetch("http://localhost:3000/armarios")
-      .then((response) => response.json())
-      .then((data) => setArmarios(data))
-      .catch((error) => console.error("Erro:", error));
+    lojaService.listarArmariosDisponiveis()
+      .then((res) => setArmarios(res))
+      .catch((err) => console.log("Erro ao buscar armários:", err));
   }, []);
 
   return (
-    <div className="min-h-screen bg-slate-100 p-8">
-      <h1 className="text-2xl font-bold text-slate-800 mb-6 text-center">
-        Mapa de Armários
+    <div className="bg-slate-900 min-h-screen p-6 text-white">
+      <h1 className="text-2xl font-bold text-center mb-6">
+        Mapa de Armários - Bento Quirino
       </h1>
 
-      {/* Grid Responsivo: 2 colunas no celular, 5 no tablet, 10 no PC */}
-      <div className="grid grid-cols-2 sm:grid-cols-5 lg:grid-cols-10 gap-4">
-        {armarios.map((item) => {
-          // Lógica de cores baseada no status
-          const statusColors = {
-            0: "bg-green-500 hover:bg-green-600", // Livre
-            1: "bg-red-500 hover:bg-red-600",     // Ocupado
-            2: "bg-amber-500 hover:bg-amber-600"  // Reservado
-          };
+      {/* Grid simples que funciona em qualquer tela */}
+      <div className="grid grid-cols-4 md:grid-cols-8 gap-3">
+        {armarios.map((item) => (
+          <button
+            key={item.id}
+            onClick={() => navigate(`/detalhes/${item.id}`)}
+            // Cor verde se estiver livre, vermelho se estiver ocupado
+            className={`p-4 rounded shadow-lg text-center font-bold transition-all
+              ${item.esta_ocupado ? "bg-red-600 opacity-50" : "bg-green-600 hover:bg-green-500"}`}
+            disabled={item.esta_ocupado}
+          >
+            <p className="text-xs">Bloco {item.bloco}</p>
+            <p className="text-lg">{item.numero_armario}</p>
+          </button>
+        ))}
+      </div>
 
-          return (
-            <button
-              key={item.id}
-              onClick={() => navigate(`/detalhes/${item.id}`, { state: { armarioSelec: item } })}
-              className={`${statusColors[item.status]} aspect-square rounded-xl shadow-md transition-all 
-                         flex flex-col items-center justify-center text-white active:scale-95`}
-            >
-              <span className="text-xl mb-1">🔒</span>
-              <span className="font-bold">{item.posicao}</span>
-            </button>
-          );
-        })}
+      {/* Legenda básica no rodapé */}
+      <div className="mt-8 flex justify-center gap-4 text-sm">
+        <div className="flex items-center gap-1">
+          <div className="w-3 h-3 bg-green-600 rounded"></div> <span>Livre</span>
+        </div>
+        <div className="flex items-center gap-1">
+          <div className="w-3 h-3 bg-red-600 rounded"></div> <span>Ocupado</span>
+        </div>
       </div>
     </div>
   );
 }
+useEffect(() => {
+  lojaService.listarArmariosDisponiveis()
+    .then((res) => {
+      console.log("Dados que vieram do banco:", res); // <-- Adicione isso
+      setArmarios(res);
+    })
+    .catch((err) => console.log("Erro real:", err));
+}, []);
