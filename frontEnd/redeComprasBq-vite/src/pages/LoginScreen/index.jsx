@@ -11,7 +11,7 @@ export default function Login() {
   const handleLogin = (e) => {
     e.preventDefault();
 
-    if (email === 'Miguel@gmail.com' && senha === '123456') {
+    if (email === 'miguel@gmail.com' && senha === '123456') {
       navigate('/');
     } else {
       setErro('Email ou senha inválidos');
@@ -19,7 +19,7 @@ export default function Login() {
   };
 
   return (
-    <div className="login-container">
+    <div className="login-page">
       <form className="login-box" onSubmit={handleLogin}>
         <h2>Login</h2>
 
@@ -38,14 +38,14 @@ export default function Login() {
         <div className="input">
           <label>Senha</label>
           <input
-            type="senha"
+            type="password"
             value={senha}
             onChange={(e) => setSenha(e.target.value)}
             required
           />
         </div>
 
-        <button type="submit">Entrar</button>
+        <button type="submit" id='entrar'>Entrar</button>
       </form>
     </div>
   );
