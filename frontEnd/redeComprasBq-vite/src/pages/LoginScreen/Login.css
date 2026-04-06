@@ -1,0 +1,19 @@
+body{
+    overflow: hidden;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1b2546;
+  }
+.erro {
+    text-decoration: #ff0000;
+}
+.login-box{
+    width: 300px;
+    height: auto;
+    text-decoration: #ff0000;
+}

@@ -4,8 +4,7 @@ import Home from './pages/home/index';
 import DetailsScreen from './pages/detailsScreen/index';
 import NavBar from './components/NavBar'; 
 import SideBar from './components/SideBar';
-
-const Login = () => <div style={{color: 'white', padding: '50px'}}>Página de Login (Em breve)</div>;
+import Login from './pages/LoginScreen/index';
 
 export default function AppRoutes() {
     const [isSideBarOpen, setIsSideBarOpen] = useState(true); //
