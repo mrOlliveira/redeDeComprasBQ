@@ -1,4 +1,10 @@
 {
+  "cadastros": [
+    {
+      "email": "carriscarmiguel@gmail.com",
+      "senha": "123456"
+    }
+  ],
   "armarios": [
     {
       "id": 1,
