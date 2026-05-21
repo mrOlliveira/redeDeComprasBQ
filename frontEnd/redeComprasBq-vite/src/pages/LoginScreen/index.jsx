@@ -5,16 +5,32 @@ import './Login.css';
 export default function Login() {
   const [email, setEmail] = useState('');
   const [senha, setSenha] = useState('');
-  const [erro, setErro] = useState(null);
+  const [erro, setErro] = useState('');
   const navigate = useNavigate();
 
-  const handleLogin = (e) => {
+  const handleLogin = async (e) => {
     e.preventDefault();
+    setErro('');
 
-    if (email === 'miguel@gmail.com' && senha === '123456') {
-      navigate('/');
-    } else {
-      setErro('Email ou senha inválidos');
+    try {
+      const response = await fetch('http://localhost:3000/cadastros');
+      const usuarios = await response.json();
+
+      const usuarioEncontrado = usuarios.find(
+        (u) =>
+          u.email.toLowerCase().trim() === email.toLowerCase().trim() &&
+          u.senha === senha
+      );
+
+      if (usuarioEncontrado) {
+        localStorage.setItem('usuarioLogado', JSON.stringify(usuarioEncontrado));
+        navigate('/');
+      } else {
+        setErro('Email ou senha inválidos');
+      }
+
+    } catch {
+      setErro('Erro ao conectar com o servidor');
     }
   };
 
@@ -45,7 +61,7 @@ export default function Login() {
           />
         </div>
 
-        <button type="submit" id='entrar'>Entrar</button>
+        <button type="submit">Entrar</button>
       </form>
     </div>
   );

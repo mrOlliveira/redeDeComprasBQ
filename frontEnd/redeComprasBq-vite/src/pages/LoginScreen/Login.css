@@ -1,57 +1,57 @@
-body{
-    overflow: hidden;
+body {
+  margin: 0;
+  overflow: hidden;
 }
 
 .login-page {
-  height: 100%;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #1a1f2e;  
+  background-color: #1a1f2e;
+  padding: 20px;
 }
-
 
 .login-box {
   background: #2d3d7c;
-  padding: 3% 2% 2% 2%;
+  padding: 30px 25px;
   border-radius: 12px;
-  width: 35%;
-  height: 50%;
-  text-align: center;
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
 
 .login-box h2 {
-  margin-bottom: 20px;
-  color: #ffffff;
-  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  margin: 0;
 }
 
 .input {
   display: flex;
   flex-direction: column;
-  text-align: left;
-  margin-bottom: 10px;
 }
 
 .input label {
+  color: #fff;
   margin-bottom: 5px;
   color: #ffffff;
 }
 
 .input input {
   padding: 10px;
-  border: 1px solid #ffffff;
+  border: 1px solid #fff;
   border-radius: 8px;
   outline: none;
   transition: 0.3s;
 }
 
-
-#entrar {
-  width: 100%;
-  margin-top: 18%;
-  padding: 10px;
+button {
+  padding: 12px;
   border-radius: 8px;
+  border: none;
   background: #00d2ff;
   font-weight: bold;
   cursor: pointer;
@@ -67,5 +67,6 @@ button:hover {
   color: #d8000c;
   padding: 8px;
   border-radius: 6px;
-  margin-bottom: 15px;
+  font-size: 14px;
+  text-align: center;
 }
