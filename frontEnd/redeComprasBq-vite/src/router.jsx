@@ -5,6 +5,7 @@ import DetailsScreen from './pages/detailsScreen/index';
 import NavBar from './components/NavBar'; 
 import SideBar from './components/SideBar';
 import Login from './pages/LoginScreen/index';
+import AdminUsers from './pages/AdminUsers';
 
 export default function AppRoutes() {
     const [isSideBarOpen, setIsSideBarOpen] = useState(true); //
@@ -28,6 +29,7 @@ export default function AppRoutes() {
                         <Route path="/" element={<Home />} />
                         <Route path="/details/:id" element={<DetailsScreen />} />
                         <Route path="/login" element={<Login />} />
+                        <Route path="/admin" element={<AdminUsers />} />
                         <Route path="*" element={<Navigate to="/" />} />
                     </Routes>
                 </main>

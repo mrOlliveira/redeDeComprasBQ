@@ -4502,10 +4502,14 @@
       "descricao": "Armário D75 - Oficina"
     }
   ],
+  
   "cadastros": [
-    {
-      "email": "carriscarmiguel@gmail.com",
-      "senha": "123456"
-    }
+      {
+  "id": 1,
+  "nome": "Miguel Carriscar",
+  "email": "carriscarmiguel@gmail.com",
+  "senha": "123456",
+  "admin": true
+}
   ]
 }
