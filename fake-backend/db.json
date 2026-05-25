@@ -1,0 +1,4513 @@
+{
+  "cadastros": [
+    {
+      "id": "1",
+      "email": "teste@email.com",
+      "senha": "123"
+    }
+  ],
+
+  "armarios": [
+    {
+      "id": 1,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A1",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A1 - Corredor 1"
+    },
+    {
+      "id": 2,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A2",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A2 - Corredor 1"
+    },
+    {
+      "id": 3,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A3",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A3 - Corredor 1"
+    },
+    {
+      "id": 4,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A4",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A4 - Corredor 1"
+    },
+    
+    {
+      "id": 5,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A5",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A5 - Corredor 1"
+    },
+    {
+      "id": 6,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A6",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A6 - Corredor 1"
+    },
+    {
+      "id": 7,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A7",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A7 - Corredor 1"
+    },
+    {
+      "id": 8,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A8",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A8 - Corredor 1"
+    },
+    {
+      "id": 9,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A9",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A9 - Corredor 1"
+    },
+    {
+      "id": 10,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A10",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A10 - Corredor 1"
+    },
+    {
+      "id": 11,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A11",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A11 - Corredor 1"
+    },
+    {
+      "id": 12,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A12",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A12 - Corredor 1"
+    },
+    {
+      "id": 13,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A13",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A13 - Corredor 1"
+    },
+    {
+      "id": 14,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A14",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A14 - Corredor 1"
+    },
+    {
+      "id": 15,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A15",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A15 - Corredor 1"
+    },
+    {
+      "id": 16,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A16",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A16 - Corredor 1"
+    },
+    {
+      "id": 17,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A17",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A17 - Corredor 1"
+    },
+    {
+      "id": 18,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A18",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A18 - Corredor 1"
+    },
+    {
+      "id": 19,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A19",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A19 - Corredor 1"
+    },
+    {
+      "id": 20,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A20",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A20 - Corredor 1"
+    },
+    {
+      "id": 21,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A21",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A21 - Corredor 1"
+    },
+    {
+      "id": 22,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A22",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A22 - Corredor 1"
+    },
+    {
+      "id": 23,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A23",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A23 - Corredor 1"
+    },
+    {
+      "id": 24,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A24",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A24 - Corredor 1"
+    },
+    {
+      "id": 25,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A25",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A25 - Corredor 1"
+    },
+    {
+      "id": 26,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A26",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A26 - Corredor 1"
+    },
+    {
+      "id": 27,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A27",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A27 - Corredor 1"
+    },
+    {
+      "id": 28,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A28",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A28 - Corredor 1"
+    },
+    {
+      "id": 29,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A29",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A29 - Corredor 1"
+    },
+    {
+      "id": 30,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A30",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A30 - Corredor 1"
+    },
+    {
+      "id": 31,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A31",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A31 - Corredor 1"
+    },
+    {
+      "id": 32,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A32",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A32 - Corredor 1"
+    },
+    {
+      "id": 33,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A33",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A33 - Corredor 1"
+    },
+    {
+      "id": 34,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A34",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A34 - Corredor 1"
+    },
+    {
+      "id": 35,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A35",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A35 - Corredor 1"
+    },
+    {
+      "id": 36,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A36",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A36 - Corredor 1"
+    },
+    {
+      "id": 37,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A37",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A37 - Corredor 1"
+    },
+    {
+      "id": 38,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A38",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A38 - Corredor 1"
+    },
+    {
+      "id": 39,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A39",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A39 - Corredor 1"
+    },
+    {
+      "id": 40,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A40",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A40 - Corredor 1"
+    },
+    {
+      "id": 41,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A41",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A41 - Corredor 1"
+    },
+    {
+      "id": 42,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A42",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A42 - Corredor 1"
+    },
+    {
+      "id": 43,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A43",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A43 - Corredor 1"
+    },
+    {
+      "id": 44,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A44",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A44 - Corredor 1"
+    },
+    {
+      "id": 45,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A45",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A45 - Corredor 1"
+    },
+    {
+      "id": 46,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A46",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A46 - Corredor 1"
+    },
+    {
+      "id": 47,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A47",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A47 - Corredor 1"
+    },
+    {
+      "id": 48,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A48",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A48 - Corredor 1"
+    },
+    {
+      "id": 49,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A49",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A49 - Corredor 1"
+    },
+    {
+      "id": 50,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A50",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A50 - Corredor 1"
+    },
+    {
+      "id": 51,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A51",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A51 - Corredor 1"
+    },
+    {
+      "id": 52,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A52",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A52 - Corredor 1"
+    },
+    {
+      "id": 53,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A53",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A53 - Corredor 1"
+    },
+    {
+      "id": 54,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A54",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A54 - Corredor 1"
+    },
+    {
+      "id": 55,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A55",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A55 - Corredor 1"
+    },
+    {
+      "id": 56,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A56",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A56 - Corredor 1"
+    },
+    {
+      "id": 57,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A57",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A57 - Corredor 1"
+    },
+    {
+      "id": 58,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A58",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A58 - Corredor 1"
+    },
+    {
+      "id": 59,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A59",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A59 - Corredor 1"
+    },
+    {
+      "id": 60,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A60",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A60 - Corredor 1"
+    },
+    {
+      "id": 61,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A61",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A61 - Corredor 1"
+    },
+    {
+      "id": 62,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A62",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A62 - Corredor 1"
+    },
+    {
+      "id": 63,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A63",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A63 - Corredor 1"
+    },
+    {
+      "id": 64,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A64",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A64 - Corredor 1"
+    },
+    {
+      "id": 65,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A65",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A65 - Corredor 1"
+    },
+    {
+      "id": 66,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A66",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A66 - Corredor 1"
+    },
+    {
+      "id": 67,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A67",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A67 - Corredor 1"
+    },
+    {
+      "id": 68,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A68",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A68 - Corredor 1"
+    },
+    {
+      "id": 69,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A69",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A69 - Corredor 1"
+    },
+    {
+      "id": 70,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A70",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A70 - Corredor 1"
+    },
+    {
+      "id": 71,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A71",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A71 - Corredor 1"
+    },
+    {
+      "id": 72,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A72",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A72 - Corredor 1"
+    },
+    {
+      "id": 73,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A73",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A73 - Corredor 1"
+    },
+    {
+      "id": 74,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A74",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A74 - Corredor 1"
+    },
+    {
+      "id": 75,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A75",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A75 - Corredor 1"
+    },
+    {
+      "id": 76,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A76",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A76 - Corredor 1"
+    },
+    {
+      "id": 77,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A77",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A77 - Corredor 1"
+    },
+    {
+      "id": 78,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A78",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A78 - Corredor 1"
+    },
+    {
+      "id": 79,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A79",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A79 - Corredor 1"
+    },
+    {
+      "id": 80,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A80",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A80 - Corredor 1"
+    },
+    {
+      "id": 81,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A81",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A81 - Corredor 1"
+    },
+    {
+      "id": 82,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A82",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A82 - Corredor 1"
+    },
+    {
+      "id": 83,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A83",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A83 - Corredor 1"
+    },
+    {
+      "id": 84,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A84",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A84 - Corredor 1"
+    },
+    {
+      "id": 85,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A85",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A85 - Corredor 1"
+    },
+    {
+      "id": 86,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A86",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A86 - Corredor 1"
+    },
+    {
+      "id": 87,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A87",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A87 - Corredor 1"
+    },
+    {
+      "id": 88,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A88",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A88 - Corredor 1"
+    },
+    {
+      "id": 89,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A89",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A89 - Corredor 1"
+    },
+    {
+      "id": 90,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A90",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A90 - Corredor 1"
+    },
+    {
+      "id": 91,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A91",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A91 - Corredor 1"
+    },
+    {
+      "id": 92,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A92",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A92 - Corredor 1"
+    },
+    {
+      "id": 93,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A93",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A93 - Corredor 1"
+    },
+    {
+      "id": 94,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A94",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A94 - Corredor 1"
+    },
+    {
+      "id": 95,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A95",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A95 - Corredor 1"
+    },
+    {
+      "id": 96,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A96",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A96 - Corredor 1"
+    },
+    {
+      "id": 97,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A97",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A97 - Corredor 1"
+    },
+    {
+      "id": 98,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A98",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A98 - Corredor 1"
+    },
+    {
+      "id": 99,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A99",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A99 - Corredor 1"
+    },
+    {
+      "id": 100,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A100",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A100 - Corredor 1"
+    },
+    {
+      "id": 101,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A101",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A101 - Corredor 1"
+    },
+    {
+      "id": 102,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A102",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A102 - Corredor 1"
+    },
+    {
+      "id": 103,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A103",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A103 - Corredor 1"
+    },
+    {
+      "id": 104,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A104",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A104 - Corredor 1"
+    },
+    {
+      "id": 105,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A105",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A105 - Corredor 1"
+    },
+    {
+      "id": 106,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A106",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A106 - Corredor 1"
+    },
+    {
+      "id": 107,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A107",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A107 - Corredor 1"
+    },
+    {
+      "id": 108,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A108",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A108 - Corredor 1"
+    },
+    {
+      "id": 109,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A109",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A109 - Corredor 1"
+    },
+    {
+      "id": 110,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A110",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A110 - Corredor 1"
+    },
+    {
+      "id": 111,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A111",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A111 - Corredor 1"
+    },
+    {
+      "id": 112,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A112",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A112 - Corredor 1"
+    },
+    {
+      "id": 113,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A113",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A113 - Corredor 1"
+    },
+    {
+      "id": 114,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A114",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A114 - Corredor 1"
+    },
+    {
+      "id": 115,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A115",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A115 - Corredor 1"
+    },
+    {
+      "id": 116,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A116",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A116 - Corredor 1"
+    },
+    {
+      "id": 117,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A117",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A117 - Corredor 1"
+    },
+    {
+      "id": 118,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A118",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A118 - Corredor 1"
+    },
+    {
+      "id": 119,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A119",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A119 - Corredor 1"
+    },
+    {
+      "id": 120,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A120",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A120 - Corredor 1"
+    },
+    {
+      "id": 121,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A121",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A121 - Corredor 1"
+    },
+    {
+      "id": 122,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A122",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A122 - Corredor 1"
+    },
+    {
+      "id": 123,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A123",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A123 - Corredor 1"
+    },
+    {
+      "id": 124,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A124",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A124 - Corredor 1"
+    },
+    {
+      "id": 125,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A125",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A125 - Corredor 1"
+    },
+    {
+      "id": 126,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A126",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A126 - Corredor 1"
+    },
+    {
+      "id": 127,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A127",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A127 - Corredor 1"
+    },
+    {
+      "id": 128,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A128",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A128 - Corredor 1"
+    },
+    {
+      "id": 129,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A129",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A129 - Corredor 1"
+    },
+    {
+      "id": 130,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A130",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A130 - Corredor 1"
+    },
+    {
+      "id": 131,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A131",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A131 - Corredor 1"
+    },
+    {
+      "id": 132,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A132",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A132 - Corredor 1"
+    },
+    {
+      "id": 133,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A133",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A133 - Corredor 1"
+    },
+    {
+      "id": 134,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A134",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A134 - Corredor 1"
+    },
+    {
+      "id": 135,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A135",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A135 - Corredor 1"
+    },
+    {
+      "id": 136,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A136",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A136 - Corredor 1"
+    },
+    {
+      "id": 137,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A137",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A137 - Corredor 1"
+    },
+    {
+      "id": 138,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A138",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A138 - Corredor 1"
+    },
+    {
+      "id": 139,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A139",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A139 - Corredor 1"
+    },
+    {
+      "id": 140,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A140",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A140 - Corredor 1"
+    },
+    {
+      "id": 141,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A141",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A141 - Corredor 1"
+    },
+    {
+      "id": 142,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A142",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A142 - Corredor 1"
+    },
+    {
+      "id": 143,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A143",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A143 - Corredor 1"
+    },
+    {
+      "id": 144,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A144",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A144 - Corredor 1"
+    },
+    {
+      "id": 145,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A145",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A145 - Corredor 1"
+    },
+    {
+      "id": 146,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A146",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A146 - Corredor 1"
+    },
+    {
+      "id": 147,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A147",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A147 - Corredor 1"
+    },
+    {
+      "id": 148,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A148",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário A148 - Corredor 1"
+    },
+    {
+      "id": 149,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A149",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário A149 - Corredor 1"
+    },
+    {
+      "id": 150,
+      "corredor": 1,
+      "nomeCorredor": "Corredor 1",
+      "posicao": "A150",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário A150 - Corredor 1"
+    },
+    {
+      "id": 151,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B1",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B1 - Corredor 2"
+    },
+    {
+      "id": 152,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B2",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B2 - Corredor 2"
+    },
+    {
+      "id": 153,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B3",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B3 - Corredor 2"
+    },
+    {
+      "id": 154,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B4",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B4 - Corredor 2"
+    },
+    {
+      "id": 155,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B5",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B5 - Corredor 2"
+    },
+    {
+      "id": 156,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B6",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B6 - Corredor 2"
+    },
+    {
+      "id": 157,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B7",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B7 - Corredor 2"
+    },
+    {
+      "id": 158,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B8",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B8 - Corredor 2"
+    },
+    {
+      "id": 159,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B9",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B9 - Corredor 2"
+    },
+    {
+      "id": 160,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B10",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B10 - Corredor 2"
+    },
+    {
+      "id": 161,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B11",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B11 - Corredor 2"
+    },
+    {
+      "id": 162,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B12",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B12 - Corredor 2"
+    },
+    {
+      "id": 163,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B13",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B13 - Corredor 2"
+    },
+    {
+      "id": 164,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B14",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B14 - Corredor 2"
+    },
+    {
+      "id": 165,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B15",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B15 - Corredor 2"
+    },
+    {
+      "id": 166,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B16",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B16 - Corredor 2"
+    },
+    {
+      "id": 167,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B17",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B17 - Corredor 2"
+    },
+    {
+      "id": 168,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B18",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B18 - Corredor 2"
+    },
+    {
+      "id": 169,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B19",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B19 - Corredor 2"
+    },
+    {
+      "id": 170,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B20",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B20 - Corredor 2"
+    },
+    {
+      "id": 171,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B21",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B21 - Corredor 2"
+    },
+    {
+      "id": 172,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B22",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B22 - Corredor 2"
+    },
+    {
+      "id": 173,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B23",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B23 - Corredor 2"
+    },
+    {
+      "id": 174,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B24",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B24 - Corredor 2"
+    },
+    {
+      "id": 175,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B25",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B25 - Corredor 2"
+    },
+    {
+      "id": 176,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B26",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B26 - Corredor 2"
+    },
+    {
+      "id": 177,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B27",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B27 - Corredor 2"
+    },
+    {
+      "id": 178,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B28",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B28 - Corredor 2"
+    },
+    {
+      "id": 179,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B29",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B29 - Corredor 2"
+    },
+    {
+      "id": 180,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B30",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B30 - Corredor 2"
+    },
+    {
+      "id": 181,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B31",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B31 - Corredor 2"
+    },
+    {
+      "id": 182,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B32",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B32 - Corredor 2"
+    },
+    {
+      "id": 183,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B33",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B33 - Corredor 2"
+    },
+    {
+      "id": 184,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B34",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B34 - Corredor 2"
+    },
+    {
+      "id": 185,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B35",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B35 - Corredor 2"
+    },
+    {
+      "id": 186,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B36",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B36 - Corredor 2"
+    },
+    {
+      "id": 187,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B37",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B37 - Corredor 2"
+    },
+    {
+      "id": 188,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B38",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B38 - Corredor 2"
+    },
+    {
+      "id": 189,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B39",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B39 - Corredor 2"
+    },
+    {
+      "id": 190,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B40",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B40 - Corredor 2"
+    },
+    {
+      "id": 191,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B41",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B41 - Corredor 2"
+    },
+    {
+      "id": 192,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B42",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B42 - Corredor 2"
+    },
+    {
+      "id": 193,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B43",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B43 - Corredor 2"
+    },
+    {
+      "id": 194,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B44",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B44 - Corredor 2"
+    },
+    {
+      "id": 195,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B45",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B45 - Corredor 2"
+    },
+    {
+      "id": 196,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B46",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B46 - Corredor 2"
+    },
+    {
+      "id": 197,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B47",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B47 - Corredor 2"
+    },
+    {
+      "id": 198,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B48",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B48 - Corredor 2"
+    },
+    {
+      "id": 199,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B49",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B49 - Corredor 2"
+    },
+    {
+      "id": 200,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B50",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B50 - Corredor 2"
+    },
+    {
+      "id": 201,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B51",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B51 - Corredor 2"
+    },
+    {
+      "id": 202,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B52",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B52 - Corredor 2"
+    },
+    {
+      "id": 203,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B53",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B53 - Corredor 2"
+    },
+    {
+      "id": 204,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B54",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B54 - Corredor 2"
+    },
+    {
+      "id": 205,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B55",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B55 - Corredor 2"
+    },
+    {
+      "id": 206,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B56",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B56 - Corredor 2"
+    },
+    {
+      "id": 207,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B57",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B57 - Corredor 2"
+    },
+    {
+      "id": 208,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B58",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B58 - Corredor 2"
+    },
+    {
+      "id": 209,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B59",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B59 - Corredor 2"
+    },
+    {
+      "id": 210,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B60",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B60 - Corredor 2"
+    },
+    {
+      "id": 211,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B61",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B61 - Corredor 2"
+    },
+    {
+      "id": 212,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B62",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B62 - Corredor 2"
+    },
+    {
+      "id": 213,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B63",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B63 - Corredor 2"
+    },
+    {
+      "id": 214,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B64",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B64 - Corredor 2"
+    },
+    {
+      "id": 215,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B65",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B65 - Corredor 2"
+    },
+    {
+      "id": 216,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B66",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B66 - Corredor 2"
+    },
+    {
+      "id": 217,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B67",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B67 - Corredor 2"
+    },
+    {
+      "id": 218,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B68",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B68 - Corredor 2"
+    },
+    {
+      "id": 219,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B69",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B69 - Corredor 2"
+    },
+    {
+      "id": 220,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B70",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B70 - Corredor 2"
+    },
+    {
+      "id": 221,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B71",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B71 - Corredor 2"
+    },
+    {
+      "id": 222,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B72",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B72 - Corredor 2"
+    },
+    {
+      "id": 223,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B73",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B73 - Corredor 2"
+    },
+    {
+      "id": 224,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B74",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B74 - Corredor 2"
+    },
+    {
+      "id": 225,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B75",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B75 - Corredor 2"
+    },
+    {
+      "id": 226,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B76",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B76 - Corredor 2"
+    },
+    {
+      "id": 227,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B77",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B77 - Corredor 2"
+    },
+    {
+      "id": 228,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B78",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B78 - Corredor 2"
+    },
+    {
+      "id": 229,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B79",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B79 - Corredor 2"
+    },
+    {
+      "id": 230,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B80",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B80 - Corredor 2"
+    },
+    {
+      "id": 231,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B81",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B81 - Corredor 2"
+    },
+    {
+      "id": 232,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B82",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B82 - Corredor 2"
+    },
+    {
+      "id": 233,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B83",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B83 - Corredor 2"
+    },
+    {
+      "id": 234,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B84",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B84 - Corredor 2"
+    },
+    {
+      "id": 235,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B85",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B85 - Corredor 2"
+    },
+    {
+      "id": 236,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B86",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B86 - Corredor 2"
+    },
+    {
+      "id": 237,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B87",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B87 - Corredor 2"
+    },
+    {
+      "id": 238,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B88",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B88 - Corredor 2"
+    },
+    {
+      "id": 239,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B89",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B89 - Corredor 2"
+    },
+    {
+      "id": 240,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B90",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B90 - Corredor 2"
+    },
+    {
+      "id": 241,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B91",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B91 - Corredor 2"
+    },
+    {
+      "id": 242,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B92",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B92 - Corredor 2"
+    },
+    {
+      "id": 243,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B93",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B93 - Corredor 2"
+    },
+    {
+      "id": 244,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B94",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B94 - Corredor 2"
+    },
+    {
+      "id": 245,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B95",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B95 - Corredor 2"
+    },
+    {
+      "id": 246,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B96",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B96 - Corredor 2"
+    },
+    {
+      "id": 247,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B97",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B97 - Corredor 2"
+    },
+    {
+      "id": 248,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B98",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B98 - Corredor 2"
+    },
+    {
+      "id": 249,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B99",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B99 - Corredor 2"
+    },
+    {
+      "id": 250,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B100",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B100 - Corredor 2"
+    },
+    {
+      "id": 251,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B101",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B101 - Corredor 2"
+    },
+    {
+      "id": 252,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B102",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B102 - Corredor 2"
+    },
+    {
+      "id": 253,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B103",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B103 - Corredor 2"
+    },
+    {
+      "id": 254,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B104",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B104 - Corredor 2"
+    },
+    {
+      "id": 255,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B105",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B105 - Corredor 2"
+    },
+    {
+      "id": 256,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B106",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B106 - Corredor 2"
+    },
+    {
+      "id": 257,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B107",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B107 - Corredor 2"
+    },
+    {
+      "id": 258,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B108",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B108 - Corredor 2"
+    },
+    {
+      "id": 259,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B109",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B109 - Corredor 2"
+    },
+    {
+      "id": 260,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B110",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B110 - Corredor 2"
+    },
+    {
+      "id": 261,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B111",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B111 - Corredor 2"
+    },
+    {
+      "id": 262,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B112",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B112 - Corredor 2"
+    },
+    {
+      "id": 263,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B113",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B113 - Corredor 2"
+    },
+    {
+      "id": 264,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B114",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B114 - Corredor 2"
+    },
+    {
+      "id": 265,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B115",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B115 - Corredor 2"
+    },
+    {
+      "id": 266,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B116",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B116 - Corredor 2"
+    },
+    {
+      "id": 267,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B117",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B117 - Corredor 2"
+    },
+    {
+      "id": 268,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B118",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B118 - Corredor 2"
+    },
+    {
+      "id": 269,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B119",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B119 - Corredor 2"
+    },
+    {
+      "id": 270,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B120",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B120 - Corredor 2"
+    },
+    {
+      "id": 271,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B121",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B121 - Corredor 2"
+    },
+    {
+      "id": 272,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B122",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B122 - Corredor 2"
+    },
+    {
+      "id": 273,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B123",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B123 - Corredor 2"
+    },
+    {
+      "id": 274,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B124",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B124 - Corredor 2"
+    },
+    {
+      "id": 275,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B125",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B125 - Corredor 2"
+    },
+    {
+      "id": 276,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B126",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B126 - Corredor 2"
+    },
+    {
+      "id": 277,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B127",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B127 - Corredor 2"
+    },
+    {
+      "id": 278,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B128",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B128 - Corredor 2"
+    },
+    {
+      "id": 279,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B129",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B129 - Corredor 2"
+    },
+    {
+      "id": 280,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B130",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B130 - Corredor 2"
+    },
+    {
+      "id": 281,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B131",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B131 - Corredor 2"
+    },
+    {
+      "id": 282,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B132",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B132 - Corredor 2"
+    },
+    {
+      "id": 283,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B133",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B133 - Corredor 2"
+    },
+    {
+      "id": 284,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B134",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B134 - Corredor 2"
+    },
+    {
+      "id": 285,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B135",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B135 - Corredor 2"
+    },
+    {
+      "id": 286,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B136",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B136 - Corredor 2"
+    },
+    {
+      "id": 287,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B137",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B137 - Corredor 2"
+    },
+    {
+      "id": 288,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B138",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B138 - Corredor 2"
+    },
+    {
+      "id": 289,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B139",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B139 - Corredor 2"
+    },
+    {
+      "id": 290,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B140",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B140 - Corredor 2"
+    },
+    {
+      "id": 291,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B141",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B141 - Corredor 2"
+    },
+    {
+      "id": 292,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B142",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B142 - Corredor 2"
+    },
+    {
+      "id": 293,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B143",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B143 - Corredor 2"
+    },
+    {
+      "id": 294,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B144",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B144 - Corredor 2"
+    },
+    {
+      "id": 295,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B145",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B145 - Corredor 2"
+    },
+    {
+      "id": 296,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B146",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B146 - Corredor 2"
+    },
+    {
+      "id": 297,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B147",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário B147 - Corredor 2"
+    },
+    {
+      "id": 298,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B148",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário B148 - Corredor 2"
+    },
+    {
+      "id": 299,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B149",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B149 - Corredor 2"
+    },
+    {
+      "id": 300,
+      "corredor": 2,
+      "nomeCorredor": "Corredor 2",
+      "posicao": "B150",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário B150 - Corredor 2"
+    },
+    {
+      "id": 301,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C1",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C1 - Corredor 3"
+    },
+    {
+      "id": 302,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C2",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C2 - Corredor 3"
+    },
+    {
+      "id": 303,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C3",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C3 - Corredor 3"
+    },
+    {
+      "id": 304,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C4",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C4 - Corredor 3"
+    },
+    {
+      "id": 305,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C5",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C5 - Corredor 3"
+    },
+    {
+      "id": 306,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C6",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C6 - Corredor 3"
+    },
+    {
+      "id": 307,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C7",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C7 - Corredor 3"
+    },
+    {
+      "id": 308,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C8",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C8 - Corredor 3"
+    },
+    {
+      "id": 309,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C9",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C9 - Corredor 3"
+    },
+    {
+      "id": 310,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C10",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C10 - Corredor 3"
+    },
+    {
+      "id": 311,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C11",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C11 - Corredor 3"
+    },
+    {
+      "id": 312,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C12",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C12 - Corredor 3"
+    },
+    {
+      "id": 313,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C13",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C13 - Corredor 3"
+    },
+    {
+      "id": 314,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C14",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C14 - Corredor 3"
+    },
+    {
+      "id": 315,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C15",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C15 - Corredor 3"
+    },
+    {
+      "id": 316,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C16",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C16 - Corredor 3"
+    },
+    {
+      "id": 317,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C17",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C17 - Corredor 3"
+    },
+    {
+      "id": 318,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C18",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C18 - Corredor 3"
+    },
+    {
+      "id": 319,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C19",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C19 - Corredor 3"
+    },
+    {
+      "id": 320,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C20",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C20 - Corredor 3"
+    },
+    {
+      "id": 321,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C21",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C21 - Corredor 3"
+    },
+    {
+      "id": 322,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C22",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C22 - Corredor 3"
+    },
+    {
+      "id": 323,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C23",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C23 - Corredor 3"
+    },
+    {
+      "id": 324,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C24",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C24 - Corredor 3"
+    },
+    {
+      "id": 325,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C25",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C25 - Corredor 3"
+    },
+    {
+      "id": 326,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C26",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C26 - Corredor 3"
+    },
+    {
+      "id": 327,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C27",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C27 - Corredor 3"
+    },
+    {
+      "id": 328,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C28",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C28 - Corredor 3"
+    },
+    {
+      "id": 329,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C29",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C29 - Corredor 3"
+    },
+    {
+      "id": 330,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C30",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C30 - Corredor 3"
+    },
+    {
+      "id": 331,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C31",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C31 - Corredor 3"
+    },
+    {
+      "id": 332,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C32",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C32 - Corredor 3"
+    },
+    {
+      "id": 333,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C33",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C33 - Corredor 3"
+    },
+    {
+      "id": 334,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C34",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C34 - Corredor 3"
+    },
+    {
+      "id": 335,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C35",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C35 - Corredor 3"
+    },
+    {
+      "id": 336,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C36",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C36 - Corredor 3"
+    },
+    {
+      "id": 337,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C37",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C37 - Corredor 3"
+    },
+    {
+      "id": 338,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C38",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C38 - Corredor 3"
+    },
+    {
+      "id": 339,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C39",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C39 - Corredor 3"
+    },
+    {
+      "id": 340,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C40",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C40 - Corredor 3"
+    },
+    {
+      "id": 341,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C41",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C41 - Corredor 3"
+    },
+    {
+      "id": 342,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C42",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C42 - Corredor 3"
+    },
+    {
+      "id": 343,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C43",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C43 - Corredor 3"
+    },
+    {
+      "id": 344,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C44",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C44 - Corredor 3"
+    },
+    {
+      "id": 345,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C45",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C45 - Corredor 3"
+    },
+    {
+      "id": 346,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C46",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C46 - Corredor 3"
+    },
+    {
+      "id": 347,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C47",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C47 - Corredor 3"
+    },
+    {
+      "id": 348,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C48",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C48 - Corredor 3"
+    },
+    {
+      "id": 349,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C49",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C49 - Corredor 3"
+    },
+    {
+      "id": 350,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C50",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C50 - Corredor 3"
+    },
+    {
+      "id": 351,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C51",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C51 - Corredor 3"
+    },
+    {
+      "id": 352,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C52",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C52 - Corredor 3"
+    },
+    {
+      "id": 353,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C53",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C53 - Corredor 3"
+    },
+    {
+      "id": 354,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C54",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C54 - Corredor 3"
+    },
+    {
+      "id": 355,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C55",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C55 - Corredor 3"
+    },
+    {
+      "id": 356,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C56",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C56 - Corredor 3"
+    },
+    {
+      "id": 357,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C57",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C57 - Corredor 3"
+    },
+    {
+      "id": 358,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C58",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C58 - Corredor 3"
+    },
+    {
+      "id": 359,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C59",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C59 - Corredor 3"
+    },
+    {
+      "id": 360,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C60",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C60 - Corredor 3"
+    },
+    {
+      "id": 361,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C61",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C61 - Corredor 3"
+    },
+    {
+      "id": 362,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C62",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C62 - Corredor 3"
+    },
+    {
+      "id": 363,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C63",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C63 - Corredor 3"
+    },
+    {
+      "id": 364,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C64",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C64 - Corredor 3"
+    },
+    {
+      "id": 365,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C65",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C65 - Corredor 3"
+    },
+    {
+      "id": 366,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C66",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C66 - Corredor 3"
+    },
+    {
+      "id": 367,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C67",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C67 - Corredor 3"
+    },
+    {
+      "id": 368,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C68",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C68 - Corredor 3"
+    },
+    {
+      "id": 369,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C69",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C69 - Corredor 3"
+    },
+    {
+      "id": 370,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C70",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C70 - Corredor 3"
+    },
+    {
+      "id": 371,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C71",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C71 - Corredor 3"
+    },
+    {
+      "id": 372,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C72",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C72 - Corredor 3"
+    },
+    {
+      "id": 373,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C73",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C73 - Corredor 3"
+    },
+    {
+      "id": 374,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C74",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C74 - Corredor 3"
+    },
+    {
+      "id": 375,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C75",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C75 - Corredor 3"
+    },
+    {
+      "id": 376,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C76",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C76 - Corredor 3"
+    },
+    {
+      "id": 377,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C77",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C77 - Corredor 3"
+    },
+    {
+      "id": 378,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C78",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C78 - Corredor 3"
+    },
+    {
+      "id": 379,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C79",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C79 - Corredor 3"
+    },
+    {
+      "id": 380,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C80",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C80 - Corredor 3"
+    },
+    {
+      "id": 381,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C81",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C81 - Corredor 3"
+    },
+    {
+      "id": 382,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C82",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C82 - Corredor 3"
+    },
+    {
+      "id": 383,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C83",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C83 - Corredor 3"
+    },
+    {
+      "id": 384,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C84",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C84 - Corredor 3"
+    },
+    {
+      "id": 385,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C85",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C85 - Corredor 3"
+    },
+    {
+      "id": 386,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C86",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C86 - Corredor 3"
+    },
+    {
+      "id": 387,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C87",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C87 - Corredor 3"
+    },
+    {
+      "id": 388,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C88",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C88 - Corredor 3"
+    },
+    {
+      "id": 389,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C89",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C89 - Corredor 3"
+    },
+    {
+      "id": 390,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C90",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C90 - Corredor 3"
+    },
+    {
+      "id": 391,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C91",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C91 - Corredor 3"
+    },
+    {
+      "id": 392,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C92",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C92 - Corredor 3"
+    },
+    {
+      "id": 393,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C93",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C93 - Corredor 3"
+    },
+    {
+      "id": 394,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C94",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C94 - Corredor 3"
+    },
+    {
+      "id": 395,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C95",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C95 - Corredor 3"
+    },
+    {
+      "id": 396,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C96",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C96 - Corredor 3"
+    },
+    {
+      "id": 397,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C97",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C97 - Corredor 3"
+    },
+    {
+      "id": 398,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C98",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C98 - Corredor 3"
+    },
+    {
+      "id": 399,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C99",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C99 - Corredor 3"
+    },
+    {
+      "id": 400,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C100",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C100 - Corredor 3"
+    },
+    {
+      "id": 401,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C101",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C101 - Corredor 3"
+    },
+    {
+      "id": 402,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C102",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C102 - Corredor 3"
+    },
+    {
+      "id": 403,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C103",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C103 - Corredor 3"
+    },
+    {
+      "id": 404,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C104",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C104 - Corredor 3"
+    },
+    {
+      "id": 405,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C105",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C105 - Corredor 3"
+    },
+    {
+      "id": 406,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C106",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C106 - Corredor 3"
+    },
+    {
+      "id": 407,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C107",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C107 - Corredor 3"
+    },
+    {
+      "id": 408,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C108",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C108 - Corredor 3"
+    },
+    {
+      "id": 409,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C109",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C109 - Corredor 3"
+    },
+    {
+      "id": 410,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C110",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C110 - Corredor 3"
+    },
+    {
+      "id": 411,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C111",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C111 - Corredor 3"
+    },
+    {
+      "id": 412,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C112",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C112 - Corredor 3"
+    },
+    {
+      "id": 413,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C113",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C113 - Corredor 3"
+    },
+    {
+      "id": 414,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C114",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C114 - Corredor 3"
+    },
+    {
+      "id": 415,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C115",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C115 - Corredor 3"
+    },
+    {
+      "id": 416,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C116",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C116 - Corredor 3"
+    },
+    {
+      "id": 417,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C117",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C117 - Corredor 3"
+    },
+    {
+      "id": 418,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C118",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C118 - Corredor 3"
+    },
+    {
+      "id": 419,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C119",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C119 - Corredor 3"
+    },
+    {
+      "id": 420,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C120",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C120 - Corredor 3"
+    },
+    {
+      "id": 421,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C121",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C121 - Corredor 3"
+    },
+    {
+      "id": 422,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C122",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário C122 - Corredor 3"
+    },
+    {
+      "id": 423,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C123",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário C123 - Corredor 3"
+    },
+    {
+      "id": 424,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C124",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C124 - Corredor 3"
+    },
+    {
+      "id": 425,
+      "corredor": 3,
+      "nomeCorredor": "Corredor 3",
+      "posicao": "C125",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário C125 - Corredor 3"
+    },
+    {
+      "id": 426,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D1",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D1 - Oficina"
+    },
+    {
+      "id": 427,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D2",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D2 - Oficina"
+    },
+    {
+      "id": 428,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D3",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D3 - Oficina"
+    },
+    {
+      "id": 429,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D4",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D4 - Oficina"
+    },
+    {
+      "id": 430,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D5",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D5 - Oficina"
+    },
+    {
+      "id": 431,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D6",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D6 - Oficina"
+    },
+    {
+      "id": 432,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D7",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D7 - Oficina"
+    },
+    {
+      "id": 433,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D8",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D8 - Oficina"
+    },
+    {
+      "id": 434,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D9",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D9 - Oficina"
+    },
+    {
+      "id": 435,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D10",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D10 - Oficina"
+    },
+    {
+      "id": 436,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D11",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D11 - Oficina"
+    },
+    {
+      "id": 437,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D12",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D12 - Oficina"
+    },
+    {
+      "id": 438,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D13",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D13 - Oficina"
+    },
+    {
+      "id": 439,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D14",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D14 - Oficina"
+    },
+    {
+      "id": 440,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D15",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D15 - Oficina"
+    },
+    {
+      "id": 441,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D16",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D16 - Oficina"
+    },
+    {
+      "id": 442,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D17",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D17 - Oficina"
+    },
+    {
+      "id": 443,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D18",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D18 - Oficina"
+    },
+    {
+      "id": 444,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D19",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D19 - Oficina"
+    },
+    {
+      "id": 445,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D20",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D20 - Oficina"
+    },
+    {
+      "id": 446,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D21",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D21 - Oficina"
+    },
+    {
+      "id": 447,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D22",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D22 - Oficina"
+    },
+    {
+      "id": 448,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D23",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D23 - Oficina"
+    },
+    {
+      "id": 449,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D24",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D24 - Oficina"
+    },
+    {
+      "id": 450,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D25",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D25 - Oficina"
+    },
+    {
+      "id": 451,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D26",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D26 - Oficina"
+    },
+    {
+      "id": 452,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D27",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D27 - Oficina"
+    },
+    {
+      "id": 453,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D28",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D28 - Oficina"
+    },
+    {
+      "id": 454,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D29",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D29 - Oficina"
+    },
+    {
+      "id": 455,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D30",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D30 - Oficina"
+    },
+    {
+      "id": 456,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D31",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D31 - Oficina"
+    },
+    {
+      "id": 457,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D32",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D32 - Oficina"
+    },
+    {
+      "id": 458,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D33",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D33 - Oficina"
+    },
+    {
+      "id": 459,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D34",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D34 - Oficina"
+    },
+    {
+      "id": 460,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D35",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D35 - Oficina"
+    },
+    {
+      "id": 461,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D36",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D36 - Oficina"
+    },
+    {
+      "id": 462,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D37",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D37 - Oficina"
+    },
+    {
+      "id": 463,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D38",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D38 - Oficina"
+    },
+    {
+      "id": 464,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D39",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D39 - Oficina"
+    },
+    {
+      "id": 465,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D40",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D40 - Oficina"
+    },
+    {
+      "id": 466,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D41",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D41 - Oficina"
+    },
+    {
+      "id": 467,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D42",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D42 - Oficina"
+    },
+    {
+      "id": 468,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D43",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D43 - Oficina"
+    },
+    {
+      "id": 469,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D44",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D44 - Oficina"
+    },
+    {
+      "id": 470,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D45",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D45 - Oficina"
+    },
+    {
+      "id": 471,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D46",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D46 - Oficina"
+    },
+    {
+      "id": 472,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D47",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D47 - Oficina"
+    },
+    {
+      "id": 473,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D48",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D48 - Oficina"
+    },
+    {
+      "id": 474,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D49",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D49 - Oficina"
+    },
+    {
+      "id": 475,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D50",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D50 - Oficina"
+    },
+    {
+      "id": 476,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D51",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D51 - Oficina"
+    },
+    {
+      "id": 477,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D52",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D52 - Oficina"
+    },
+    {
+      "id": 478,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D53",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D53 - Oficina"
+    },
+    {
+      "id": 479,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D54",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D54 - Oficina"
+    },
+    {
+      "id": 480,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D55",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D55 - Oficina"
+    },
+    {
+      "id": 481,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D56",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D56 - Oficina"
+    },
+    {
+      "id": 482,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D57",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D57 - Oficina"
+    },
+    {
+      "id": 483,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D58",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D58 - Oficina"
+    },
+    {
+      "id": 484,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D59",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D59 - Oficina"
+    },
+    {
+      "id": 485,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D60",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D60 - Oficina"
+    },
+    {
+      "id": 486,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D61",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D61 - Oficina"
+    },
+    {
+      "id": 487,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D62",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D62 - Oficina"
+    },
+    {
+      "id": 488,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D63",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D63 - Oficina"
+    },
+    {
+      "id": 489,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D64",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D64 - Oficina"
+    },
+    {
+      "id": 490,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D65",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D65 - Oficina"
+    },
+    {
+      "id": 491,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D66",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D66 - Oficina"
+    },
+    {
+      "id": 492,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D67",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D67 - Oficina"
+    },
+    {
+      "id": 493,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D68",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D68 - Oficina"
+    },
+    {
+      "id": 494,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D69",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D69 - Oficina"
+    },
+    {
+      "id": 495,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D70",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D70 - Oficina"
+    },
+    {
+      "id": 496,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D71",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D71 - Oficina"
+    },
+    {
+      "id": 497,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D72",
+      "status": 1,
+      "preco": null,
+      "descricao": "Armário D72 - Oficina"
+    },
+    {
+      "id": 498,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D73",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D73 - Oficina"
+    },
+    {
+      "id": 499,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D74",
+      "status": 0,
+      "preco": 100,
+      "descricao": "Armário D74 - Oficina"
+    },
+    {
+      "id": 500,
+      "corredor": 4,
+      "nomeCorredor": "Oficina",
+      "posicao": "D75",
+      "status": 2,
+      "preco": null,
+      "descricao": "Armário D75 - Oficina"
+    }
+  ]
+}

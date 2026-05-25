@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Seu CSS personalizado (se quiser) pode continuar aqui embaixo */
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #111827; /* Fundo escuro padrão */
+}
