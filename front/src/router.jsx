@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route, Outlet } from 'react-router-dom';
 import Login from './screens/Login/index';
 import Home from './screens/home/index';
 import Checkout from './screens/checkout/index';
+import HomeAdmin from './screens/HomeAdmin/index';
 import NavBar from './components/NavBar';
 import SideBar from './components/SideBar';
 
@@ -35,6 +36,7 @@ export default function AppRoutes() {
         {/* Rotas Privadas e Internas do Sistema */}
         <Route element={<LayoutComComponentes />}>
           <Route path="/home" element={<Home />} />
+          <Route path="/HomeAdmin" element={<HomeAdmin />} />
           <Route path="/checkout" element={<Checkout />} />
         </Route>
       </Routes>

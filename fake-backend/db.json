@@ -2,8 +2,24 @@
   "cadastros": [
     {
       "id": "1",
-      "email": "teste@email.com",
-      "senha": "123"
+      "nome": "Pedro Coltro",
+      "email": "pedro.costacoltro@gmail.com",
+      "senha": "123",
+      "admin": false
+    },
+      {
+      "id": "2",
+      "nome": "Miguel Carriscar",
+      "email": "carriscarmiguel@gmail.com",
+      "senha": "123",
+      "admin": false
+    },
+    {
+      "id": "3",
+      "nome": "Daniel",
+      "email": "admin@gmail.com",
+      "senha": "123",
+      "admin": true
     }
   ],
 
